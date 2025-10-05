@@ -1,7 +1,9 @@
+# FILE: _data/authors.yml
 
-title: Xiyuan Zhang's Portfolio
-name: Xiyuan Zhang
-[cite_start]email: 2022010906019@std.uestc.edu.cn [cite: 8]
-# avatar: "/images/your-photo.jpg" # Add the path to your photo
-bio: "Undergraduate student in Electronic Information Engineering at the University of Electronic Science and Technology of China (UESTC)."
-[cite_start]phone: 15235138159 [cite: 8]
+# The top-level key (e.g., "main") is required.
+main:
+  [cite_start]name: "Xiyuan Zhang" [cite: 3]
+  [cite_start]email: "2022010906019@std.uestc.edu.cn" [cite: 8]
+  [cite_start]phone: "15235138159" [cite: 8]
+  [cite_start]bio: "Student in Electronic Information Engineering at the University of Electronic Science and Technology of China." [cite: 13, 14]
+  avatar: "/images/profile.jpg" # Make sure this path is correct
