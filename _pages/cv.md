@@ -1,64 +1,31 @@
+# FILE: _pages/cv.md
+
 ---
 layout: archive
 title: "CV"
 permalink: /cv/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
-{% include base_path %}
+## Education
+* [cite_start]**B.Eng. in Electronic Information Engineering** [cite: 13][cite_start], University of Electronic Science and Technology of China (UESTC) [cite: 13][cite_start], *2022.09 - Present* [cite: 6]
+    * [cite_start]GPA: 3.97/4.00 [cite: 11]
+    * [cite_start]Major Ranking: 8/203 (3.9%) [cite: 13]
+    * [cite_start]Weighted Average Score: 92.47/100 [cite: 11]
+* [cite_start]**Research Assistant**, Shanghai Jiao Tong University, Michigan College [cite: 13][cite_start], *2025.01 - 2025.05* [cite: 12]
 
-Education
-======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+## Honors and Awards
+* [cite_start]National Scholarship (1.9%) [cite: 11]
+* [cite_start]Liren Elite (Top 5 students university-wide) [cite: 13]
+* [cite_start]Friend of UESTC Scholarship (Top 6 students university-wide) [cite: 13]
+* [cite_start]Sichuan Provincial College Students' Comprehensive Quality A-level Certificate [cite: 13]
 
-Work experience
-======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+## Leadership and Activities
+* [cite_start]**Founder & President**, UESTC Neuroscience Club [cite: 44][cite_start], *2025.02 - Present* [cite: 44]
+* [cite_start]**Peer Counselor**, UESTC & School of Information and Communication Engineering [cite: 45][cite_start], *2023.09 - Present* [cite: 50]
+* [cite_start]**Administrative Class League Branch Secretary** [cite: 46][cite_start], *2022.09 - Present* [cite: 51]
+* [cite_start]**Vice President**, UESTC Running Association [cite: 47][cite_start], *2023.06 - 2024.06* [cite: 51]
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+## Skills
+* [cite_start]**Programming & Software**: Python, C, Matlab, Multisim, Origin, ChemDraw, PowerPoint [cite: 52]
+* [cite_start]**Language**: English (CET4: 592, CET6: 580) [cite: 13]
