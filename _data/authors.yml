@@ -1,18 +1,7 @@
-# Authors
 
-Name Name:
-  name        : "Name Name"
-  uri         : "http://name.com"
-  email       : "name@name.com"
-  bio         : "This is the first name."
-  avatar      : "bio-photo-2.jpg"
-  twitter     : "name"
-  google_plus : "Name"
-
-Name2 Name2:
-  name        : "Name2 Name2"
-  email       : "name2@name2.com"
-  bio         : "I ordered what?"
-  avatar      : "bio-photo.jpg"
-  twitter     : "name2"
-  google_plus : "Name"
+title: Xiyuan Zhang's Portfolio
+name: Xiyuan Zhang
+[cite_start]email: 2022010906019@std.uestc.edu.cn [cite: 8]
+# avatar: "/images/your-photo.jpg" # Add the path to your photo
+bio: "Undergraduate student in Electronic Information Engineering at the University of Electronic Science and Technology of China (UESTC)."
+[cite_start]phone: 15235138159 [cite: 8]
