@@ -4,7 +4,7 @@
 
 ## 🎓 About Me
 
-I am an undergraduate student majoring in **Electronic Information Engineering** at the **University of Electronic Science and Technology of China (UESTC)**. Currently serving as a Research Assistant at **SJTU-Global College**. My research interests focus on **multimodal data / sensor fusion** and **AI for Science (AI4S)**. I am planning to pursue a Ph.D. at the **ZJU-UIUC Institute** from 2026, under the supervision of Prof. Bruce Yu.
+I am an undergraduate student majoring in **Electronic Information Engineering** at the **University of Electronic Science and Technology of China (UESTC)**. Currently serving as a Research Assistant at **SJTU-Global College**. My research interests focus on **multimodal data / sensor fusion** and **AI for Science**. I am planning to pursue a Ph.D. at the **ZJU-UIUC Institute** from 2026, under the supervision of Prof. Bruce Yu.
 
 - 🏫 **Education**: UESTC, School of Information and Communication Engineering (2022.09 - Present)
 - 🔬 **Current Position**: Research Assistant at SJTU-Global College (2025.01 - 2025.05)
