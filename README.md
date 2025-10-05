@@ -70,13 +70,12 @@ I am an undergraduate student majoring in **Electronic Information Engineering**
 
 - **Co-founder & Vice President**, UESTC Neuroscience Society (Feb 2025 - Present)
   - Invited Prof. Dezhong Yao, founding Dean of the School of Life Sciences, as faculty advisor to promote scientific outreach and research in brain science.
-- **Deputy Secretary**, Undergraduate Second Party Branch, School of ICE (Sep 2025 - Present)
-- **Peer Counselor**, UESTC (Sep 2024 - Present)
-  - Responsible for peer mentoring; have successfully guided several students in their on-campus and off-campus research training.
-- **League Branch Secretary**, Class of 2022, School of ICE (Sep 2022 - Present)
-  - Led the class to win the "University Excellent Class" award for two consecutive years.
 - **Vice President**, UESTC Running Association (Jun 2023 - Jun 2024)
   - Organized multiple sports activities on campus.
+- **Peer Counselor**, UESTC (Sep 2024 - Present)
+  - Responsible for peer mentoring; have successfully guided several students in their on-campus and off-campus research training.
+- **League Branch Secretary**, Class of 2022010906, School of ICE (Sep 2022 - Present)
+  - Led the class to win the "University Excellent Class" award for two consecutive years.
 
 ## 🌟 Interests & Hobbies
 
@@ -84,17 +83,3 @@ I am an undergraduate student majoring in **Electronic Information Engineering**
 - 🎾 **Tennis**: University Team Member (2x Runner-up)
 - 📷 **Photography**: Visual China Contributor
 - 📱 **Content Creation**: 620K+ Video Views on Social Media
-
-## 🔗 Connect With Me
-
-- 📧 Email: [mail_Xiyuan_Zhang@126.com](mailto:mail_Xiyuan_Zhang@126.com)
-- 📱 WeChat/Phone: 15235138159
-- 🔗 [ORCID](https://orcid.org/) (Coming Soon)
-- 🎓 [Google Scholar](https://scholar.google.com/) (Coming Soon)
-
----
-
-### 📈 Visitor Count
-![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZHANGXiyuan2004.ZHANGXiyuan2004)
-
-*"Bridging neuroscience and electronics to create intelligent, human-centered technologies."*
