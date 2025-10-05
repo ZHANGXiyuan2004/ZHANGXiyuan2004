@@ -1,78 +1,85 @@
-# Hi there, I'm Xiyuan Zhang (张晰元) 👋
+# Hello there, I'm Shine Yuan, Xiyuan Zhang (张晰元) 👋
 
-[![GitHub](https://img.shields.io/badge/GitHub-ZHANGXiyuan2004-181717?style=flat-square&logo=github)](https://github.com/ZHANGXiyuan2004)
-[![Email](https://img.shields.io/badge/Email-2022010906019@std.uestc.edu.cn-D14836?style=flat-square&logo=gmail)](mailto:2022010906019@std.uestc.edu.cn)
-[![WeChat](https://img.shields.io/badge/WeChat-15235138159-07C160?style=flat-square&logo=wechat)](https://wa.me/8615235138159)
+[![Email](https://img.shields.io/badge/Email-mail_Xiyuan_Zhang@126.com-D14836?style=flat-square&logo=gmail)](mailto:mail_Xiyuan_Zhang@126.com)
 
 ## 🎓 About Me
 
-I am a junior undergraduate student majoring in **Electronic Information Engineering** at the **University of Electronic Science and Technology of China (UESTC)**. Currently serving as a Research Assistant at **Shanghai Jiao Tong University Michigan Institute**. My research interests span across **neuromorphic computing**, **flexible electronics**, **emotion recognition**, and **materials informatics**.
+I am a junior undergraduate student majoring in **Electronic Information Engineering** at the **University of Electronic Science and Technology of China (UESTC)**. Currently serving as a Research Assistant at **SJTU-Global College**. My research interests focus on **multimodal data/sensor fusion** and **AI for Science (AI4S)**. I am planning to pursue a Ph.D. at the **ZJUI Institute of Zhejiang University** from 2026, under the supervision of Prof. Xinbo Yu (Bruce Yu).
 
 - 🏫 **Education**: UESTC, School of Information and Communication Engineering (2022.09 - Present)
-- 🔬 **Current Position**: Research Assistant at SJTU Michigan Institute (2025.01 - 2025.05)
+- 🔬 **Current Position**: Research Assistant at SJTU-Global College (2025.01 - 2025.05)
+- 🚀 **Future Plan**: Ph.D. candidate at ZJUI, Zhejiang University (From 2026), supervised by Prof. Xinbo Yu.
 - 🏆 **Academic Performance**: GPA 3.97/4.00 | Ranking: 8/203 (Top 3.9%)
-- 🌟 **Honors**: National Scholarship Recipient | Sichuan Provincial A-Level Certificate | UESTC Elite Scholar (5 students university-wide)
+- 🌟 **Honors**: National Scholarship | Sichuan Provincial A-Level Certificate | "Liren Elite" Scholar (Top 5 university-wide)
 
 ## 🔬 Research Interests
 
-- **Neuromorphic Computing & Brain-Computer Interfaces**
-- **Flexible Organic Electronics & Wearable Devices**
-- **Multimodal Emotion Recognition Systems**
-- **AI for Materials Discovery**
-- **Organic Photovoltaics & Energy Harvesting**
+- **Multimodal Data / Sensor Fusion**
+- **AI for Science (AI4S)**
 
 ## 📚 Selected Research Projects
 
 ### 🧠 Self-Powered Multimodal Emotion Recognition System
 **Lead Researcher** | *Dec 2023 - Aug 2024* | Advisor: Prof. Ding Zheng (UESTC)
-- Developed a wearable device integrating voice and EEG signal analysis for emotion detection
-- Designed dual-modal binding mechanism with Transformer architecture achieving >85% accuracy
-- Fabricated flexible organic photovoltaic cells with 12.39% PCE for self-powered operation
-- **Achievements**: 
+- Developed a wearable device integrating voice and EEG signal analysis for emotion detection.
+- Designed dual-modal binding mechanism with Transformer architecture achieving >85% accuracy.
+- Fabricated flexible organic photovoltaic cells with 12.39% PCE for self-powered operation.
+- **Achievements**:
   - First-author paper accepted at ICDT 2025 (Oral Presentation)
   - National First Prize in IoT Design Competition 2024
   - National Innovation Training Program (Excellent Rating)
 
 ### ⚡ Superionic Conductor Materials Screening & Phase Prediction
 **Lead Researcher** | *Jan 2025 - May 2025* | Advisor: Prof. Hong Zhu (SJTU)
-- Fine-tuning MatterSim universal potential function for Li-N-S system materials
-- Implementing active learning loop for iterative model-data improvement
-- Developing high-throughput screening pipeline using MatterGen
-- **Achievement**: Selected for SJTU Michigan Institute Research Internship Program 2025
+- Fine-tuning MatterSim universal potential function for Li-N-S system materials.
+- Implementing an active learning loop for iterative model-data improvement.
+- Developing a high-throughput screening pipeline using MatterGen.
+- **Achievement**: Selected for SJTU-Global College Research Internship Program 2025.
 
 ### 💧 Flexible OECT for Humidity Sensing & Neuromorphic Computing
 **Team Member** | *Sep 2024 - Present* | Advisors: Prof. Junsheng Yu & Prof. Ding Zheng (UESTC)
-- Developing eutectogel-gated ultra-flexible organic electrochemical transistors
-- Achieved 91.1% accuracy in MNIST digit recognition through neuromorphic computing
-- **Publication**: Manuscript submitted to *ACS Applied Materials & Interfaces* (IF=8.2)
+- Developing eutectogel-gated ultra-flexible organic electrochemical transistors.
+- Achieved 91.1% accuracy in MNIST digit recognition through neuromorphic computing.
+- **Publication**: Manuscript submitted to *ACS Applied Materials & Interfaces* (IF=8.2).
 
 ## 📝 Publications & Presentations
 
-1. **X. Zhang**, et al. "Self-Powered Multimodal Emotion Recognition System Based on Voice and EEG Signals" - *ICDT 2025* (Oral Presentation)
-2. Contributing author on "Eutectogel-gated Ultra-flexible Organic Electrochemical Transistors for Humidity Sensing and Neuromorphic Computing" - *Under Review at ACS AMI*
-3. Poster presentation at the First Sichuan Provincial University Student Innovation Conference
+### Conference Papers
+1.  **X. Zhang (First Author)**, et al. "Self-powered Intelligent Audio Platform for Emotion States Recognition". *2025 International Conference on Display Technology (ICDT 2025)*, Jul 2025. [Link](https://sid.onlinelibrary.wiley.com/toc/21680159/2025/56/S1)
+2.  **X. Zhang (First Author)**, et al. "Imaging system for mid-wave infrared cooled detectors". *International Conference on Optical Imaging and Detection Technology*, Aug 2025. [DOI: 10.1117/12.3073329](https://doi.org/10.1117/12.3073329)
+3.  *Second Author*. "Design of a 16mm industrial fixed-focus lens optomechanical system based on machine vision". *International Conference on Optoelectronic Materials and Devices (ICOMD 2024)*, Mar 2025. [DOI: 10.1117/12.3058829](http://dx.doi.org/10.1117/12.3058829)
+4.  *Third Author*. "Voice Recognition System for Speech-to-Text and GPT Communication Powered By Organic Photovoltaic". *2025 International Conference on Display Technology (ICDT 2025)*, Jul 2025. [Link](https://sid.onlinelibrary.wiley.com/toc/21680159/2025/56/S1)
+
+### Submitted Manuscripts
+- **X. Zhang (First Author)**, et al. "A fully integrated self-powered wearable recognizer for multimodal emotion monitoring". Submitted to *IEICE Electronics Express* (CAS Q4).
+- *Co-author*. "Eutectogel-gated Ultra-flexible Organic Electrochemical Transistors for Humidity Sensing and Neuromorphic Computing". Submitted to *ACS Applied Materials & Interfaces* (CAS Q2 Top, IF=8.2).
 
 ## 🏅 Awards & Achievements
 
-### Academic Excellence
-- 🥇 **National Scholarship** (Top 1.9%, 2024)
-- 🏆 **Liren Elite Scholar** (5 students university-wide, 2024)
-- 🎖️ **Chengdian Friend Scholarship** (6 students university-wide, 2024)
-- 📚 **Sichuan Provincial A-Level Comprehensive Quality Certificate**
+### National Level
+- 🥇 **National Scholarship** (Ministry of Education of the PRC, Dec 2023)
+- 🥇 **National First Prize**, China University IoT Design Competition (Aug 2024)
+- 🥉 **National Third Prize**, National College Student Energy Conservation and Emission Reduction Competition (Aug 2025)
 
-### Competition Awards
-- 🥇 **National First Prize**, China University IoT Design Competition (2024)
-- 🏆 **National Excellence**, Innovation and Entrepreneurship Training Program (2024)
-- 🎾 **5th Place**, UESTC Tennis Championship Men's Singles (2023)
+### Provincial & University Level
+- 🥇 **First Prize (Regional)**, China University IoT Design Competition, Central & Southwest Region (Aug 2024)
+- 🥈 **Second Prize**, First Sichuan Provincial University Student Innovation Conference (Jul 2025)
+- 🥈 **Second Prize (Regional)**, 12th National University Student Optoelectronic Design Competition, Southwest Region (Aug 2024)
+- 证书 **Sichuan Provincial A-Level Comprehensive Quality Certificate** (Dec 2024)
+- 🏆 **"Liren Elite" Scholar** (Top 5 university-wide, UESTC, Dec 2023)
+- 🎖️ **Chengdian Friend Scholarship** (UESTC, Dec 2024)
 
 ## 💼 Leadership & Service
 
-- **Founder & President**, UESTC Neuroscience Society (2025 - Present)
-  - Established interdisciplinary society with Prof. Dezhong Yao as advisor
-  - Organized AI for Life Science workshops reaching 1000+ students
-- **Vice President**, UESTC Running Association (2023 - 2024)
-- **Peer Counselor**, UESTC & School of ICE (2023 - Present)
-- **Secretary**, Communist Youth League Branch (2022 - Present)
+- **Co-founder & Vice President**, UESTC Neuroscience Society (Feb 2025 - Present)
+  - Invited Prof. Dezhong Yao, founding Dean of the School of Life Sciences, as faculty advisor to promote scientific outreach and research in brain science.
+- **Deputy Secretary**, Undergraduate Second Party Branch, School of ICE (Sep 2025 - Present)
+- **Peer Counselor**, UESTC (Sep 2024 - Present)
+  - Responsible for peer mentoring; have successfully guided several students in their on-campus and off-campus research training.
+- **League Branch Secretary**, Class of 2022, School of ICE (Sep 2022 - Present)
+  - Led the class to win the "University Excellent Class" award for two consecutive years.
+- **Vice President**, UESTC Running Association (Jun 2023 - Jun 2024)
+  - Organized multiple sports activities on campus.
 
 ## 🛠️ Technical Skills
 
@@ -108,7 +115,7 @@ I am a junior undergraduate student majoring in **Electronic Information Enginee
 
 ## 🔗 Connect With Me
 
-- 📧 Email: [2022010906019@std.uestc.edu.cn](mailto:2022010906019@std.uestc.edu.cn)
+- 📧 Email: [mail_Xiyuan_Zhang@126.com](mailto:mail_Xiyuan_Zhang@126.com)
 - 📱 WeChat/Phone: 15235138159
 - 🔗 [ORCID](https://orcid.org/) (Coming Soon)
 - 🎓 [Google Scholar](https://scholar.google.com/) (Coming Soon)
