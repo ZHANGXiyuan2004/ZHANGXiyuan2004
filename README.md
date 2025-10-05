@@ -7,10 +7,10 @@
 I am an undergraduate student majoring in **Electronic Information Engineering** at the **University of Electronic Science and Technology of China (UESTC)**. Currently serving as a Research Assistant at **SJTU-Global College**. My research interests focus on **multimodal data / sensor fusion** and **AI4S**. I am planning to pursue a Ph.D. at the **ZJU-UIUC Institute** from 2026, under the supervision of Prof. Bruce Yu.
 
 - 🏫 **Education**: UESTC, School of Information and Communication Engineering (2022.09 - Present)
+- 🏆 **Academic Performance**: GPA 4.00/4.00
+- 🌟 **Honors**: National Scholarship | Sichuan Provincial A-Level Certificate | "Liren Elite" Scholar (Top 5 university-wide)
 - 🔬 **Current Position**: Research Assistant at SJTU-Global College (2025.01 - 2025.05)
 - 🚀 **Future Plan**: Ph.D. candidate at ZJUI, Zhejiang University (From 2026), supervised by Prof. Xinbo Yu.
-- 🏆 **Academic Performance**: GPA 3.97/4.00 | Ranking: 8/203 (Top 3.9%)
-- 🌟 **Honors**: National Scholarship | Sichuan Provincial A-Level Certificate | "Liren Elite" Scholar (Top 5 university-wide)
 
 ## 🔬 Research Interests
 
