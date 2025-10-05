@@ -1,96 +1,121 @@
-# Academic Pages
-**Academic Pages is a GitHub Pages template for personal and professional portfolio-oriented websites**
+# Hi there, I'm Xiyuan Zhang (张晰元) 👋
 
-![Academic Pages template example](images/themes/homepage-light.png "Academic Pages template example")
+[![GitHub](https://img.shields.io/badge/GitHub-ZHANGXiyuan2004-181717?style=flat-square&logo=github)](https://github.com/ZHANGXiyuan2004)
+[![Email](https://img.shields.io/badge/Email-2022010906019@std.uestc.edu.cn-D14836?style=flat-square&logo=gmail)](mailto:2022010906019@std.uestc.edu.cn)
+[![WeChat](https://img.shields.io/badge/WeChat-15235138159-07C160?style=flat-square&logo=wechat)](https://wa.me/8615235138159)
 
-# Getting Started
+## 🎓 About Me
 
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
-1. Click the "Use this template" button in the top right.
-1. On the "New repository" page, enter your public repository name as "[your GitHub username].github.io", which will also be your website's URL.
-1. Set site-wide configuration and add your content.
-1. Upload any files (like PDFs, .zip files, etc.) to the `files/` directory. They will appear at https://[your GitHub username].github.io/files/example.pdf.
-1. Check status by going to the repository settings, in the "GitHub pages" section
-1. (Optional) Use the Jupyter notebooks or python scripts in the `markdown_generator` folder to generate markdown files for publications and talks from a TSV file.
+I am a junior undergraduate student majoring in **Electronic Information Engineering** at the **University of Electronic Science and Technology of China (UESTC)**. Currently serving as a Research Assistant at **Shanghai Jiao Tong University Michigan Institute**. My research interests span across **neuromorphic computing**, **flexible electronics**, **emotion recognition**, and **materials informatics**.
 
-See more info at https://academicpages.github.io/
+- 🏫 **Education**: UESTC, School of Information and Communication Engineering (2022.09 - Present)
+- 🔬 **Current Position**: Research Assistant at SJTU Michigan Institute (2025.01 - 2025.05)
+- 🏆 **Academic Performance**: GPA 3.97/4.00 | Ranking: 8/203 (Top 3.9%)
+- 🌟 **Honors**: National Scholarship Recipient | Sichuan Provincial A-Level Certificate | UESTC Elite Scholar (5 students university-wide)
 
-## Running locally
+## 🔬 Research Interests
 
-When you are initially working on your website, it is very useful to be able to preview the changes locally before pushing them to GitHub. To work locally you will need to:
+- **Neuromorphic Computing & Brain-Computer Interfaces**
+- **Flexible Organic Electronics & Wearable Devices**
+- **Multimodal Emotion Recognition Systems**
+- **AI for Materials Discovery**
+- **Organic Photovoltaics & Energy Harvesting**
 
-1. Clone the repository and made updates as detailed above.
+## 📚 Selected Research Projects
 
-### Using a different IDE
-1. Make sure you have ruby-dev, bundler, and nodejs installed
-    
-    On most Linux distribution and [Windows Subsystem Linux](https://learn.microsoft.com/en-us/windows/wsl/about) the command is:
-    ```bash
-    sudo apt install ruby-dev ruby-bundler nodejs
-    ```
-    If you see error `Unable to locate package ruby-bundler`, `Unable to locate package nodejs `, run the following:
-    ```bash
-    sudo apt update && sudo apt upgrade -y
-    ```
-    then try run `sudo apt install ruby-dev ruby-bundler nodejs` again.
+### 🧠 Self-Powered Multimodal Emotion Recognition System
+**Lead Researcher** | *Dec 2023 - Aug 2024* | Advisor: Prof. Ding Zheng (UESTC)
+- Developed a wearable device integrating voice and EEG signal analysis for emotion detection
+- Designed dual-modal binding mechanism with Transformer architecture achieving >85% accuracy
+- Fabricated flexible organic photovoltaic cells with 12.39% PCE for self-powered operation
+- **Achievements**: 
+  - First-author paper accepted at ICDT 2025 (Oral Presentation)
+  - National First Prize in IoT Design Competition 2024
+  - National Innovation Training Program (Excellent Rating)
 
-    On MacOS the commands are:
-    ```bash
-    brew install ruby
-    brew install node
-    gem install bundler
-    ```
-1. Run `bundle install` to install ruby dependencies. If you get errors, delete Gemfile.lock and try again.
+### ⚡ Superionic Conductor Materials Screening & Phase Prediction
+**Lead Researcher** | *Jan 2025 - May 2025* | Advisor: Prof. Hong Zhu (SJTU)
+- Fine-tuning MatterSim universal potential function for Li-N-S system materials
+- Implementing active learning loop for iterative model-data improvement
+- Developing high-throughput screening pipeline using MatterGen
+- **Achievement**: Selected for SJTU Michigan Institute Research Internship Program 2025
 
-    If you see file permission error like `Fetching bundler-2.6.3.gem ERROR:  While executing gem (Gem::FilePermissionError) You don't have write permissions for the /var/lib/gems/3.2.0 directory.` or `Bundler::PermissionError: There was an error while trying to write to /usr/local/bin.`
-    Install Gems Locally (Recommended):
-    ```bash
-    bundle config set --local path 'vendor/bundle'
-    ```
-    then try run `bundle install` again. If succeeded, you should see a folder called `vendor` and `.bundle`.
+### 💧 Flexible OECT for Humidity Sensing & Neuromorphic Computing
+**Team Member** | *Sep 2024 - Present* | Advisors: Prof. Junsheng Yu & Prof. Ding Zheng (UESTC)
+- Developing eutectogel-gated ultra-flexible organic electrochemical transistors
+- Achieved 91.1% accuracy in MNIST digit recognition through neuromorphic computing
+- **Publication**: Manuscript submitted to *ACS Applied Materials & Interfaces* (IF=8.2)
 
-1. Run `jekyll serve -l -H localhost` to generate the HTML and serve it from `localhost:4000` the local server will automatically rebuild and refresh the pages on change to Markdown (*.md) and HTML files, while changes to the core template and configuration (i.e., `_config.yml`) will require stoping and restarting Jekyll.
-    You may also try `bundle exec jekyll serve -l -H localhost` to ensure jekyll to use specific dependencies on your own local machine.
+## 📝 Publications & Presentations
 
-If you are running on Linux it may be necessary to install some additional dependencies prior to being able to run locally: `sudo apt install build-essential gcc make`
+1. **X. Zhang**, et al. "Self-Powered Multimodal Emotion Recognition System Based on Voice and EEG Signals" - *ICDT 2025* (Oral Presentation)
+2. Contributing author on "Eutectogel-gated Ultra-flexible Organic Electrochemical Transistors for Humidity Sensing and Neuromorphic Computing" - *Under Review at ACS AMI*
+3. Poster presentation at the First Sichuan Provincial University Student Innovation Conference
 
-## Using Docker
+## 🏅 Awards & Achievements
 
-Working from a different OS, or just want to avoid installing dependencies? You can use the provided `Dockerfile` to build a container that will run the site for you if you have [Docker](https://www.docker.com/) installed.
+### Academic Excellence
+- 🥇 **National Scholarship** (Top 1.9%, 2024)
+- 🏆 **Liren Elite Scholar** (5 students university-wide, 2024)
+- 🎖️ **Chengdian Friend Scholarship** (6 students university-wide, 2024)
+- 📚 **Sichuan Provincial A-Level Comprehensive Quality Certificate**
 
-You can build and execute the container by running the following command in the repository:
+### Competition Awards
+- 🥇 **National First Prize**, China University IoT Design Competition (2024)
+- 🏆 **National Excellence**, Innovation and Entrepreneurship Training Program (2024)
+- 🎾 **5th Place**, UESTC Tennis Championship Men's Singles (2023)
 
-```bash
-chmod -R 777 .
-docker compose up
-```
+## 💼 Leadership & Service
 
-You should now be able to access the website from `localhost:4000`.
+- **Founder & President**, UESTC Neuroscience Society (2025 - Present)
+  - Established interdisciplinary society with Prof. Dezhong Yao as advisor
+  - Organized AI for Life Science workshops reaching 1000+ students
+- **Vice President**, UESTC Running Association (2023 - 2024)
+- **Peer Counselor**, UESTC & School of ICE (2023 - Present)
+- **Secretary**, Communist Youth League Branch (2022 - Present)
 
-### Using the DevContainer in VS Code
+## 🛠️ Technical Skills
 
-If you are using [Visual Studio Code](https://code.visualstudio.com/) you can use the [Dev Container](https://code.visualstudio.com/docs/devcontainers/containers) that comes with this Repository. Normally VS Code detects that a development coontainer configuration is available and asks you if you want to use the container. If this doesn't happen you can manually start the container by **F1->DevContainer: Reopen in Container**. This restarts your VS Code in the container and automatically hosts your academic page locally on http://localhost:4000. All changes will be updated live to that page after a few seconds.
+### Programming Languages
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=flat-square&logo=c&logoColor=white)
+![MATLAB](https://img.shields.io/badge/-MATLAB-0076A8?style=flat-square&logo=mathworks&logoColor=white)
 
-# Maintenance
+### Tools & Software
+- **Simulation**: Multisim, COMSOL
+- **Data Analysis**: Origin, Jupyter, NumPy, Pandas
+- **Deep Learning**: PyTorch, TensorFlow
+- **Chemistry**: ChemDraw, Materials Studio
+- **Design**: PowerPoint, Adobe Creative Suite
 
-Bug reports and feature requests to the template should be [submitted via GitHub](https://github.com/academicpages/academicpages.github.io/issues/new/choose). For questions concerning how to style the template, please feel free to start a [new discussion on GitHub](https://github.com/academicpages/academicpages.github.io/discussions).
+### Research Skills
+- Device Fabrication (Clean Room Experience)
+- Signal Processing (EEG, Voice)
+- Machine Learning & Neural Networks
+- Materials Characterization
+- Scientific Writing & Presentation
 
-This repository was forked (then detached) by [Stuart Geiger](https://github.com/staeiou) from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/), which is © 2016 Michael Rose and released under the MIT License (see LICENSE.md). It is currently being maintained by [Robert Zupko](https://github.com/rjzupkoii) and additional maintainers would be welcomed.
+## 🌟 Interests & Hobbies
 
-## Bugfixes and enhancements
+- 🏃 **Long-distance Running**: Provincial Games 800m Participant
+- 🎾 **Tennis**: University Team Member (2x Runner-up)
+- 📷 **Photography**: Visual China Contributor
+- 📱 **Content Creation**: 620K+ Video Views on Social Media
 
-If you have bugfixes and enhancements that you would like to submit as a pull request, you will need to [fork](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/fork-a-repo) this repository as opposed to using it as a template. This will also allow you to [synchronize your copy](https://docs.github.com/en/pull-requests/collaborating-with-pull-requests/working-with-forks/syncing-a-fork) of template to your fork as well.
+## 📊 GitHub Stats
 
-Unfortunately, one logistical issue with a template theme like Academic Pages that makes it a little tricky to get bug fixes and updates to the core theme. If you use this template and customize it, you will probably get merge conflicts if you attempt to synchronize. If you want to save your various .yml configuration files and markdown files, you can delete the repository and fork it again. Or you can manually patch.
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ZHANGXiyuan2004&show_icons=true&theme=radical)
+
+## 🔗 Connect With Me
+
+- 📧 Email: [2022010906019@std.uestc.edu.cn](mailto:2022010906019@std.uestc.edu.cn)
+- 📱 WeChat/Phone: 15235138159
+- 🔗 [ORCID](https://orcid.org/) (Coming Soon)
+- 🎓 [Google Scholar](https://scholar.google.com/) (Coming Soon)
 
 ---
-<div align="center">
-    
-![pages-build-deployment](https://github.com/academicpages/academicpages.github.io/actions/workflows/pages/pages-build-deployment/badge.svg)
-[![GitHub contributors](https://img.shields.io/github/contributors/academicpages/academicpages.github.io.svg)](https://github.com/academicpages/academicpages.github.io/graphs/contributors)
-[![GitHub release](https://img.shields.io/github/v/release/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/releases/latest)
-[![GitHub license](https://img.shields.io/github/license/academicpages/academicpages.github.io?color=blue)](https://github.com/academicpages/academicpages.github.io/blob/master/LICENSE)
 
-[![GitHub stars](https://img.shields.io/github/stars/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io)
-[![GitHub forks](https://img.shields.io/github/forks/academicpages/academicpages.github.io)](https://github.com/academicpages/academicpages.github.io/fork)
-</div>
+### 📈 Visitor Count
+![Visitor Count](https://visitor-badge.laobi.icu/badge?page_id=ZHANGXiyuan2004.ZHANGXiyuan2004)
+
+*"Bridging neuroscience and electronics to create intelligent, human-centered technologies."*
