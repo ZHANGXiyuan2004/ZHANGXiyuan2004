@@ -6,6 +6,10 @@ description: >- # this means to ignore newlines until "baseurl:"
   [cite_start]Undergraduate student in Electronic Information Engineering at the University of Electronic Science and Technology of China (UESTC). [cite: 13]
   Research interests in flexible electronics, machine learning, and neuromorphic computing.
 
+# GitHub Pages settings for ZHANGXiyuan2004.github.io
+url: "https://ZHANGXiyuan2004.github.io"
+baseurl: ""
+
 # Footer settings
 footer_links:
   - title: Email
