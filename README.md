@@ -8,9 +8,9 @@ I am an undergraduate student majoring in **Electronic Information Engineering**
 
 - 🏫 **Education**: UESTC, School of Information and Communication Engineering (2022.09 - Present)
 - 🏆 **Academic Performance**: GPA 4.00/4.00
-- 🌟 **Honors**: National Scholarship | Sichuan Provincial A-Level Certificate | "Liren Elite" Scholar (Top 5 university-wide)
 - 🔬 **Current Position**: Research Assistant at SJTU-Global College (2025.01 - 2025.05)
 - 🚀 **Future Plan**: Ph.D. candidate at ZJUI, Zhejiang University (From 2026), supervised by Prof. Xinbo Yu.
+- 🌟 **Honors**: National Scholarship | Sichuan Provincial A-Level Certificate | "Liren Elite" Scholar (Top 5 university-wide)
 
 ## 🔬 Research Interests
 
