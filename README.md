@@ -59,16 +59,6 @@ I am an undergraduate student majoring in **Electronic Information Engineering**
 - **Personal Contributions**: Constructed an active learning loop to iteratively update the model and data using MatterSim, MatterGen, and active learning algorithms.
 - **Achievement**: Selected for SJTU-Global College Research Internship Program 2025.
 
-## 🤝 Collaborators
-
-- **[Yao Zhang (张耀)](https://github.com/RatUestc)**: Streaming large language models & multimodal systems
-- **[Bocheng Guo (郭博成)](https://github.com/GBCWORLDWALKER)**: Medical image processing
-- **[Xu Zhang (张煦)](https://github.com/XuZhang-X-Z)**: Wearable devices & flexible electronics
-- **[Zhixu Duan (段之续)](https://github.com/zxuuuustupid)**: Large models & industrial fault detection
-- **[Xuan Huang (黄璇)](https://github.com/sinxHuang)**: Video models
-- **[Puming Feng (冯普明)](https://github.com/maxkura)**: Token pruning
-- **[Yuyue Huang (黄育悦)](https://github.com/hyy160)**: Multimodal learning & remote sensing imagery
-
 ## ✍️ Blog
 
 - 🎙️ **[【竞赛全攻略】对话四位国赛得主：大学竞赛避坑指南｜学科竞赛分享播客](https://b23.tv/iqFz4Sc)**
