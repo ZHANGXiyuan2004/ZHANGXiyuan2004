@@ -6,7 +6,9 @@ Incoming Ph.D. student at **ZJU-UIUC Institute (Zhejiang University)**, supervis
 
 ## ⚡ About Me / 个人简介
 
-- 🎓 **Education**: B.S. graduated from **UESTC (电子科技大学)** — Nominee for the Outstanding Student Award (university-wide top honor / 电子科技大学“成电杰出学生”提名).
+- 🎓 **Education**: 
+  - B.S. graduated from **UESTC (电子科技大学)**
+  - Nominee for the Outstanding Student Award (university-wide top honor / 电子科技大学“成电杰出学生”提名).
 - 👥 **Community & Leadership**:
   - Founder of the **UESTC Interdisciplinary Association (电子科大交叉学科协会)**.
   - Member of **Zeta Zero Hub** (exploring entrepreneurship opportunities in AI).
